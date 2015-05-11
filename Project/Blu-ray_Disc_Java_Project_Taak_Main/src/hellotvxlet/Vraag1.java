@@ -65,7 +65,7 @@ public class Vraag1 implements Xlet, HActionListener {
     }
     
    
-    private XletContext actueleXletContext;
+    public XletContext actueleXletContext;
     private HScene scene;
     
     private boolean debug=true;
